@@ -52,5 +52,5 @@ This project is licensed under the MIT License.
 
 Author
 
-Your Name - [GitHub](https://github.com/yourusername)
+macr-0 - [GitHub](https://github.com/macr-0)
 
