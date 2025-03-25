@@ -1,56 +1,60 @@
-Simple C++ Command-Line Calculator
+# Python GUI Calculator
 
-Overview
+## Overview
 
-This is a basic command-line calculator (CLC) written in C++. It allows users to perform simple arithmetic operations interactively.
+This is a simple GUI-based calculator built using Python's Tkinter. It supports basic arithmetic operations and additional functions like square root and exponentiation.
 
- Features
+## Features
 
 - Addition, subtraction, multiplication, and division
-- User-friendly command-line interface
-- Input validation for safe calculations
+- Square root calculation
+- Exponentiation (power function)
+- Clear button to reset input
+- Interactive GUI with responsive buttons
 
-Installation
+## Installation
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/simple-cpp-clc.git
+   git clone https://github.com/yourusername/python-gui-calculator.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd simple-cpp-clc
+   cd python-gui-calculator
    ```
-3. Compile the code:
+3. Install dependencies (if needed):
    ```sh
-   g++ -o calculator calculator.cpp
+   pip install tkinter
    ```
 
-Usage
+## Usage
 
-Run the executable:
+Run the calculator with:
+
 ```sh
-./calculator
-```
-Follow the prompts to enter numbers and choose operations.
-
-Example
-```
-Enter first number: 5
-Enter operator (+, -, *, /): +
-Enter second number: 3
-Result: 8
+python calculator.py
 ```
 
+## Example
 
-Requirements
+```
+- Enter numbers and operators using the buttons.
+- Press '=' to calculate the result.
+- Use 'C' to clear the input.
+- Use '√' for square root.
+- Use '^' for exponentiation.
+```
 
-- C++ compiler (e.g., g++)
+## Requirements
 
-License
+- Python 3.x
+- Tkinter (comes pre-installed with Python)
+
+## License
 
 This project is licensed under the MIT License.
 
-Author
+## Author
 
-macr-0 - [GitHub](https://github.com/macr-0)
+macr-0 
 
