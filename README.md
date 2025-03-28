@@ -1,60 +1,26 @@
-# Python GUI Calculator v1.0.00
+# Simple Calculator Using Tkinter
 
-## Overview
-
-This is a simple GUI-based calculator built using Python's Tkinter. It supports basic arithmetic operations and additional functions like square root and exponentiation.
+This is a simple calculator application built using Python's Tkinter library. It performs basic arithmetic operations such as addition, subtraction, multiplication, division, and also supports decimal points.
 
 ## Features
 
-- Addition, subtraction, multiplication, and division
-- Square root calculation
-- Exponentiation (power function)
-- Clear button to reset input
-- Interactive GUI with responsive buttons
-
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/python-gui-calculator.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd python-gui-calculator
-   ```
-3. Install dependencies (if needed):
-   ```sh
-   pip install tkinter
-   ```
-
-## Usage
-
-Run the calculator with:
-
-```sh
-python calculator.py
-```
-
-## Example
-
-```
-- Enter numbers and operators using the buttons.
-- Press '=' to calculate the result.
-- Use 'C' to clear the input.
-- Use '√' for square root.
-- Use '^' for exponentiation.
-```
+- Addition, Subtraction, Multiplication, and Division operations.
+- Clear button (C) to reset the input.
+- Evaluate button (=) to calculate the result.
+- Supports decimal numbers.
 
 ## Requirements
 
 - Python 3.x
-- Tkinter (comes pre-installed with Python)
+- Tkinter library (comes pre-installed with Python)
 
-## License
+## Installation
 
-This project is licensed under the GNU License
+1. Clone the repository or download the code file.
+2. Ensure you have Python 3.x installed. Tkinter is included with the default Python installation, so no additional installation is required.
 
-## Author
+## Usage
 
-macr-0 
-
+1. Run the script:
+   ```bash
+   python calculator.py
