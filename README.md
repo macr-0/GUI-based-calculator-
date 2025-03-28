@@ -1,4 +1,4 @@
-# Simple Calculator Using Tkinter
+# GUI Based Calculator v1.0.1
 
 This is a simple calculator application built using Python's Tkinter library. It performs basic arithmetic operations such as addition, subtraction, multiplication, division, and also supports decimal points.
 
