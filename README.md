@@ -1,4 +1,4 @@
-# Python GUI Calculator
+# Python GUI Calculator v1.0.00
 
 ## Overview
 
